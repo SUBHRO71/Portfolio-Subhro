@@ -85,7 +85,7 @@ Vellore Institute of Technology (2024 – 2028)
 ## 📫 Connect With Me
 
 - **Email:** subhro7021@gmail.com  
-- **LinkedIn:** *(add your LinkedIn link here)*  
+- **LinkedIn:** https://www.linkedin.com/in/subhrojyoti-das-28b65731a/  
 - **GitHub:** https://github.com/SUBHRO71
 
 ---
